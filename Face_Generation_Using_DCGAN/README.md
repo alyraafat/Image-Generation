@@ -20,7 +20,7 @@ Generative Adversarial Networks (GANs) have revolutionized the field of image sy
 
 ### Generator
 
-The generator model of our DCGAN takes as input a sample from normal distribution starts with a dense layer and reshapes its output to produce feature maps. This is followed by a series of transposed convolutional layers (sometimes called "deconvolutional" layers), each paired with a batch normalization and a LeakyReLU activation. The final layer uses a tanh activation to produce images in the range [-1, 1].
+The generator model of our DCGAN takes as input a sample from normal distribution and starts with a dense layer and reshapes its output to produce feature maps. This is followed by a series of transposed convolutional layers (sometimes called "deconvolutional" layers), each paired with a batch normalization and a LeakyReLU activation. The final layer uses a tanh activation to produce images in the range [-1, 1].
 
 ### Discriminator
 
