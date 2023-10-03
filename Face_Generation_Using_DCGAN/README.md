@@ -46,4 +46,4 @@ This iterative process continues until the generator produces satisfactory resul
 
 ## Results & Insights
 
-Our DCGAN, equipped with label smoothing and occasional label flipping, produces high-quality face images. Detailed visual results and insights into the model's performance over epochs are showcased within the folder called generated.
+Our DCGAN, equipped with label smoothing and occasional label flipping, produces high-quality face images. Detailed visual results and insights into the model's performance over epochs are showcased within the folder called generated. You can definitely run for more epochs so that the faces would be much more realistic.
