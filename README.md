@@ -1,7 +1,7 @@
 # Image-Generation
 ## Generative Models: Digits & Faces
 
-This repository contains two Jupyter notebooks exploring generative models, specifically for digit and face generation. The first notebook dives into generating digits using Variational Autoencoders (VAEs) and the second focuses on face generation using Deep Convolutional Generative Adversarial Networks (DCGANs).
+This repository will contain projects regarding image generation. Till now this repo contains two Jupyter notebooks exploring generative models, specifically for digit and face generation. The first notebook dives into generating digits using Variational Autoencoders (VAEs) and the second focuses on face generation using Deep Convolutional Generative Adversarial Networks (DCGANs).
 
 ## Table of Contents
 
